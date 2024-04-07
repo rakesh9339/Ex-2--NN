@@ -1,8 +1,8 @@
 # EX-02 Implementation of Perceptron for Binary Classification
-##Name:Rakesh J.S
-##Register no:212222230115
+## Name:Rakesh J.S
+## Register no:212222230115
 ### Aim:
-To implement a perceptron for classification using Python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE:**
+To implement a perceptron for classification using Python.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 ### EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
